@@ -1,4 +1,4 @@
-const int Delay = 500;
+const int Delay = 500; //Noah French made this comment!
 
 void setup() {
   // put your setup code here, to run once:
